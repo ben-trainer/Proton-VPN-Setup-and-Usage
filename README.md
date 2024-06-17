@@ -1,7 +1,7 @@
 # Proton-VPN-Setup-and-Usage
 
 <p align="center">
-<img src="x" alt="Traffic Examination"/>
+<img src="https://i.imgur.com/6vpNpZX.jpeg" alt="Traffic Examination"/>
 </p>
 
 <h2> Intro </h2>
