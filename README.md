@@ -6,13 +6,12 @@
 
 <h2> Intro </h2>
 
-- x
-- x
-- x
-- x
-- x
-- x
-- x
+- Connect to Azure VM
+- IP address test 1
+- IP address test 2
+- Download and Install Proton VPN on the VM
+- Connect to VPN
+- IP address test 3
 
 <h2>Environments and Technologies Used</h2>
 
