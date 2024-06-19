@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/6vpNpZX.jpeg" alt="Traffic Examination"/>
 </p>
 
-<h2> Intro </h2>
+<h2> Proton VPN Setup and Usage Lab Summary </h2>
 
 - Connect to Azure VM
 - IP address test 1
